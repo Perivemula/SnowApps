@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_event_type" table="x_9899_marketing_e_marketing_events" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_event_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LUG</label>
+            <language>en</language>
+            <name>x_9899_marketing_e_marketing_events</name>
+            <sequence>100</sequence>
+            <sys_created_by>sagar</sys_created_by>
+            <sys_created_on>2017-10-04 06:24:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>228b43dedb6d030001a5dc50cf961906</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sagar</sys_updated_by>
+            <sys_updated_on>2017-10-04 06:24:04</sys_updated_on>
+            <value>lug</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_event_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Major</label>
+            <language>en</language>
+            <name>x_9899_marketing_e_marketing_events</name>
+            <sequence>200</sequence>
+            <sys_created_by>sagar</sys_created_by>
+            <sys_created_on>2017-10-04 06:26:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e4eb839edb6d030001a5dc50cf9619a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sagar</sys_updated_by>
+            <sys_updated_on>2017-10-04 06:26:24</sys_updated_on>
+            <value>major</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_event_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Seminar</label>
+            <language>en</language>
+            <name>x_9899_marketing_e_marketing_events</name>
+            <sequence>300</sequence>
+            <sys_created_by>sagar</sys_created_by>
+            <sys_created_on>2017-10-04 06:28:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>017c8fdadb6d030001a5dc50cf961970</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sagar</sys_updated_by>
+            <sys_updated_on>2017-10-04 06:28:21</sys_updated_on>
+            <value>seminar</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_event_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Booth</label>
+            <language>en</language>
+            <name>x_9899_marketing_e_marketing_events</name>
+            <sequence>400</sequence>
+            <sys_created_by>sagar</sys_created_by>
+            <sys_created_on>2017-10-04 06:30:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5d0d8b5edb6d030001a5dc50cf961935</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sagar</sys_updated_by>
+            <sys_updated_on>2017-10-04 06:30:20</sys_updated_on>
+            <value>booth</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_event_type</element>
+            <name>x_9899_marketing_e_marketing_events</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>sagar</sys_created_by>
+            <sys_created_on>2017-10-04 06:24:04</sys_created_on>
+            <sys_id>3cab879edb6d030001a5dc50cf96198e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_event_type</sys_name>
+            <sys_package display_value="Marketing Events" source="x_9899_marketing_e">cde7fededb2d030001a5dc50cf96193a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Marketing Events">cde7fededb2d030001a5dc50cf96193a</sys_scope>
+            <sys_update_name>sys_choice_x_9899_marketing_e_marketing_events_u_event_type</sys_update_name>
+            <sys_updated_by>sagar</sys_updated_by>
+            <sys_updated_on>2017-10-04 06:24:04</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
